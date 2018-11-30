@@ -1,15 +1,4 @@
 # Algorithm-popular-explanation
 让算法原理通俗易懂
 
-#多轮问答开发文档
-
->该项目含1个web服务：旅游问答
-
-##快速开始
-* web请求接口配置： com.eking.web.QaController
-
-* 旅游问答主类接口：JustinServiceImpl.generateResponse()
-
-* 启动：com.eking.Application
-
-* 本地测试接口：http://localhost:1100/qa/testSession?doc=你好
+在学习算法的过程中发现能找到的材料对于新手来说比较难懂，一是因为新手对于很多专业名词不懂，二是材料的表达方式比较晦涩。对此，希望撰写一本对新手更友好的算法解析书籍。
